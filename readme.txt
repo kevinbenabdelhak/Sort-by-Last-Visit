@@ -50,7 +50,9 @@ Sort by Last Visit est un plugin WordPress qui ajoute une colonne "Dernière Vis
 
 = Est-ce que le plugin affecte les performances de mon site ? =
 
-Non, le plugin est léger et n'affecte pas les performances de votre site.
+Dès qu'un utilisateur visite une page de votre site WordPress, la date est automatiquement actualisée dans un champ personnalisée sur sa page de profil (valeur qui est invisible sur la page de profil, mais visible dans la page "Comptes")
+
+Le plugin peut éventuellement affecter vos performances en fonction du nombre de visite d'utilisateurs connectés mais également de votre serveur web
 
 == Changelog ==
 
