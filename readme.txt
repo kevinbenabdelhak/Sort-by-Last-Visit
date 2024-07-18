@@ -1,0 +1,64 @@
+=== Sort by Last Visit ===
+Contributors: kevinbenabdelhak
+Tags: Développeur web, WordPress, admin, utilisateurs, gestion utilisateurs
+Requires at least: 5.0
+Tested up to: 6.5.3
+Requires PHP: 7.0
+Stable tag: 1.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Sort by Last Visit est un plugin WordPress qui ajoute une colonne "Dernière Visite" dans l'interface de gestion des utilisateurs, permettant de visualiser et de trier facilement les utilisateurs en fonction de leur dernière visite. Optimisez votre gestion d'utilisateurs avec un affichage clair et pratique !
+
+== Description ==
+
+### Sort by Last Visit : Un outil indispensable pour la gestion d'utilisateurs
+
+"Sort by Last Visit" simplifie l'administration des utilisateurs en ajoutant une nouvelle colonne intitulée "Dernière Visite" dans votre tableau de gestion des utilisateurs dans WordPress.
+
+#### Fonctionnalités principales :
+
+1. **Suivi des visites** : Met à jour automatiquement la date et l'heure de la dernière visite de chaque utilisateur connecté.
+2. **Affichage de la dernière visite** : Ajoute une colonne "Dernière Visite" dans la liste des utilisateurs pour un aperçu rapide des dates de dernière visite.
+3. **Tri facilité** : Permet de trier les utilisateurs par date de dernière visite en un simple clic.
+4. **Intégration transparente** : S'intègre automatiquement avec votre interface de gestion WordPress.
+5. **Optimisation de la gestion d'utilisateurs** : Facilite l'administration en vous permettant de repérer rapidement les utilisateurs récemment actifs ou non.
+
+#### Cas d'utilisation :
+- **Blogs et sites de contenu** : Gardez un œil sur l'activité de vos lecteurs réguliers.
+- **Sites de membre** : Suivez l'engagement de vos membres.
+- **Commerce électronique** : Identifiez les clients actifs et les réengager.
+
+== Installation ==
+
+1. **Téléchargez le fichier ZIP du plugin :**
+   Rendez-vous sur la page de "Sort by Last Visit" sur WordPress.org et téléchargez le fichier ZIP du plugin.
+
+2. **Uploader le fichier ZIP du plugin :**
+   - Allez dans le panneau d'administration de WordPress et cliquez sur "Extensions" > "Ajouter".
+   - Cliquez sur "Téléverser une extension".
+   - Choisissez le fichier ZIP que vous avez téléchargé et cliquez sur "Installer maintenant".
+
+3. **Activer le plugin :**
+   Une fois le plugin installé, cliquez sur "Activer".
+
+4. **Utilisation du plugin :**
+   - Allez dans "Comptes" en administration.
+   - Vous verrez une nouvelle colonne "Dernière Visite" dans la liste des utilisateurs.
+   - Cliquez sur les en-têtes de colonne pour trier les utilisateurs par date de dernière visite.
+
+
+= Est-ce que le plugin affecte les performances de mon site ? =
+
+Non, le plugin est léger et n'affecte pas les performances de votre site.
+
+== Changelog ==
+
+= 1.0 =
+* Premier lancement du plugin.
+* Ajout des fonctionnalités de base pour le suivi, l'affichage et le tri par date de dernière visite.
+
+== Upgrade Notice ==
+
+= 1.0 =
+* Premier lancement du plugin.
