@@ -11,7 +11,7 @@
 
 Sort by Last Visit est un plugin WordPress qui ajoute une colonne "Dernière Visite" dans l'interface de gestion des utilisateurs, permettant de visualiser et de trier facilement les utilisateurs en fonction de leur dernière visite. Optimisez votre gestion d'utilisateurs avec un affichage clair et pratique !
 
-[![Voir le tutoriel](https://img.youtube.com/vi/Rs5mogA_mZo/maxresdefault.jpg)](https://www.youtube.com/watch?v=Rs5mogA_mZo)
+[![Voir le tutoriel](https://img.youtube.com/vi/0UnIETFugc8/maxresdefault.jpg)](https://www.youtube.com/watch?v=0UnIETFugc8)
 
 ## Description
 
